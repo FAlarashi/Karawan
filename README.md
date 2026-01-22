@@ -1,6 +1,6 @@
 # Karawan
 
-(screenshots/screenshot_1.png)
+![Chat interface](screenshots/screenshot_1.png)
 
 Karawan is a fast, local **web UI for chatting with AI models running on your own machine**. It’s built to feel natural, responsive, and private, without depending on cloud services or external APIs.
 
