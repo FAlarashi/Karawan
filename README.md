@@ -25,9 +25,9 @@ If you already run local models, Karawan is the layer that makes interacting wit
 * Text-to-speech responses that feel close to a call-like experience
 * Runs fully offline with no cloud dependency
 * Optional UI language switching, including full Arabic support
-(screenshots/screenshot_ar_1.png)
+![Visualsettings](screenshots/screenshot_ar_1.png)
 * Fast startup and smooth interaction and mobile friendly.
-(screenshots/screenshot_mobileview1.png)
+![mobileversion](screenshots/screenshot_mobileview1.png)
 * No tracking, no telemetry, no data collection
 * Installed and run using npm
 
