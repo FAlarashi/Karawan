@@ -6,6 +6,7 @@ Karawan is a fast, local **web UI for chatting with AI models running on your ow
 Everything runs locally. Your conversations stay on your system.
 
 With voice responses, Karawan feels closer to a conversation than a chat box.
+---
 ![Chat interface](screenshots/screenshot_1.png)
 
 ---
