@@ -1,0 +1,8 @@
+
+{
+  "name": "Karawan AI Terminal",
+  "description": "A high-performance, developer-centric frontend for local AI (Ollama) featuring MCP integration, voice calls, and cockatiel-inspired aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
